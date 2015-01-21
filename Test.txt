@@ -1,3 +1,4 @@
 Git test line 1
 Git test line 2
 Git test line 3
+Git test line 4
